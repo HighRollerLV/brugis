@@ -7,7 +7,7 @@ const Header = () => {
             <header className="text-white py-4 max-w-screen-xl mx-auto px-4">
                 <div className="container mx-auto flex justify-between items-center px-4 md:px-8">
                     {/* Logo */}
-                    <h1 className="text-2xl md:text-3xl font-serif tracking-wide">BRUĢĒŠANA</h1>
+                    <a href="http://localhost:3000/"><h1 className="text-2xl md:text-3xl font-serif tracking-wide">BRUĢĒŠANA</h1></a>
 
                     {/* Navigation */}
                     <nav>

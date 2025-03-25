@@ -12,17 +12,19 @@ const HomePage = () => {
                         {/* Left Content */}
                         <div className="md:w-1/2 mb-8 md:mb-0 text-center md:text-left">
                             <h2 className="text-2xl md:text-3xl font-bold mb-8">PAR MUMS</h2>
-                            <p className="text-gray-300 mb-8">
+                            <p className="mb-8">
                                 Mēs esam pieredzējuši bruģēšanas speciālisti, kas ar to nodarbojas jau vairākus gadus, mēs
                                 nodrošinām kvalitatīvu un precīzu darbu.
                                 Strādājam gan ar privātajām, gan uzņēmumiem, piedāvājot dažādus risinājumus, lai jūsu
                                 pagalms,
                                 piebraucamais ceļš vai dārzs izskatītos nevainojami.
                             </p>
+                            <a href="http://localhost:3000/kontakti">
                             <button
-                                className="bg-black text-white px-6 py-2 border border-white hover:bg-white hover:text-black transition">
+                                className="w-[188px] h-[48px] font-bold bg-black text-white px-6 py-2 hover:bg-white hover:text-black transition duration-300">
                                 SAZINĀTIES
                             </button>
+                            </a>
                         </div>
 
                         {/* Right Image Placeholder */}
