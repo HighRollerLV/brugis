@@ -84,7 +84,7 @@ const ProjectDetails = () => {
             {/* Project Header */}
             <div className="max-w-7xl mx-auto px-6 py-12">
                 <div className="text-center mb-12">
-                    <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-gray-300 to-gray-100">
+                    <h1 className="text-4xl md:text-5xl font-bold mb-6">
                         {post.title.rendered}
                     </h1>
                     {street && (
