@@ -72,7 +72,7 @@ const ServicesSection = () => {
 
                 {/* CTA Button */}
                 <div className="text-center mt-16">
-                    <a href="/kontakti">
+                    <a href="https://brugis.lucid-websites.com/kontakti">
                         <button className="px-8 py-3 font-medium text-black bg-white border border-white rounded-lg transition-all hover:bg-gray-200 hover:shadow-lg flex items-center mx-auto">
                             <span>SAZINĀTIES AR MUMS</span>
                             <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

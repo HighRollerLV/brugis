@@ -64,7 +64,7 @@ const HomePage = () => {
                             </p>
 
                             <div className="text-left">
-                                <a href="/kontakti" className="inline-block">
+                                <a href="https://brugis.lucid-websites.com/kontakti" className="inline-block">
                                     <button className="relative w-40 sm:w-48 h-12 sm:h-14 font-bold bg-gradient-to-r from-gray-50 to-gray-400 text-black px-4 sm:px-6 py-2 sm:py-3 rounded-md overflow-hidden group transition-all duration-300 hover:shadow-lg hover:shadow-gray-400/20">
                                         <span className="relative z-10 flex items-center justify-center gap-2">
                                             SAZINĀTIES
